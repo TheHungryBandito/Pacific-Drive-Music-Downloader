@@ -8,7 +8,7 @@ This application can be run with or without Pacific Drive running.
 1. Download the .exe
 2. Run the .exe
 3. Paste the URL to the YouTube video you would like the audio from
-    ![Command line prompt for URL](images\image-1.png)
+    ![Command line prompt for URL](images/image-1.png)
 4. Press "Enter"
 5. The application will download the video, convert it to MP3 and save the audio to %Localappdata%\PenDriverPro\Custom\Radio\
 6. Follow the prompts to download more audio or close the application
@@ -17,7 +17,7 @@ This application can be run with or without Pacific Drive running.
 9. Go to "Audio"
 10. Scroll down to "Local Music" and click "REBUILD DATABASE"
 11. Change "Radio Music Source" to "CUSTOM" or "DEFAULT AND CUSTOM" depending on your preferences
-    ![Pacific Drive Audio Settings Menu](images\image-2.png)
+    ![Pacific Drive Audio Settings Menu](images/image-2.png)
 12. The radio in-game should now be playing the custom music that was downloaded
 
 ## Requirements
