@@ -34,6 +34,7 @@ This application can be run with or without Pacific Drive running.
 
 ## Dependencies for development
 - [FFMPEG](https://www.ffmpeg.org/download.html) - [ffmpeg-master-latest-win64-gpl-shared](https://github.com/BtbN/FFmpeg-Builds/releases) was used for development
+    - For local development FFMPEG exe is loaded from the following path: %userprofile%\\Downloads\\ffmpeg-master-latest-win64-gpl-shared\\bin\\ffmpeg.exe 
 - [UPX](https://upx.github.io/) (For compressing .exe)
 - [Python 3.13](https://www.python.org/downloads/)
 - Pyinstaller (module)
